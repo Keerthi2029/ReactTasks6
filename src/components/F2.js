@@ -221,13 +221,13 @@ export function Projects() {
                         <div class="portfolio-container">
                             <div class="row">
                                 <div class="col-md-6 col-lg-4 web new">
-                                    <div class="portfolio-item">
-                                        <img src="https://i2.wp.com/files.123freevectors.com/wp-content/solidbackground/wild-watermelon-free-solidcolor-background.jpg?w=800&q=95" />
+                                <div class="portfolio-item">
+                                        <img src="https://devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F816e9a65e49d4f1cbce272f86a59890f%2Fprojects%2Fec51a1316a334b02b5b377588578773d%2Fac1a8ba5-0acd-4a26-b06d-1c33e59089a3.png&w=1440&q=75" style={{height:"200px"}} />
                                         <div class="content-holder">
-                                            <a class="img-popup" href="assets/imgs/web-1.jpg"></a>
+                                            <a class="img-popup" href="assets/imgs/web-2.jpg"></a>
                                             <div class="text-holder">
                                                 <h6 class="title">HOTSTAR CLONE</h6>
-                                                <p class="subtitle">Cloning of HOTSTAR using HTML, CSS and JavaScript</p>
+                                                <p class="subtitle">Clonned HOTSTAR using HTML, CSS and JAVASCRIPT</p>
                                             </div>
                                         </div>
                                     </div>
